@@ -67,9 +67,9 @@ body {
   overflow: hidden;
 }
 
-.card_box:hover {
+/* .card_box:hover {
   transform: translateY(-10px);
-}
+} */
 
 .card {
   position: absolute;
